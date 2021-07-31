@@ -1,1 +1,1 @@
-An Autoencoder to detect if a text is sanskrit or not
+An Autoencoder to detect if a text is sanskrit or not.
